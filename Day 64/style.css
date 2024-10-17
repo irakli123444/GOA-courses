@@ -1,0 +1,72 @@
+body{
+    background-color: black;
+}
+
+p{
+    color: chartreuse;
+    font-size: 50px;
+    background-color: aliceblue;
+    height: 100px;
+    width: 500px;
+}
+
+#p2{
+    color: crimson;
+}
+#p3{
+    color: blue;
+}
+#p4{
+    color: blueviolet;
+}
+#p5{
+    color: yellow;
+}
+#p6{
+    color: orange;
+}
+#p7{
+    color: pink;
+}
+#p8{
+    color: rgb(255, 8, 214);
+}
+#p9{
+    color: brown;
+}
+#p10{
+    color: burlywood;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+}
+
+#img4{
+    height: 300px;
+    width: 500px;
+}
+
+#img3{
+    height: 700px;
+    width: 500px;
+}
+
+button{
+    background-color: aqua;
+    color: blue;
+    font-size: 30px;
+    height: 150px;
+    width: 200px;
+}
+
+#but{
+    background-color: brown;
+    color: cyan;
+}
+
+#butt{
+    background-color: darkgreen;
+    color: hotpink;
+}
