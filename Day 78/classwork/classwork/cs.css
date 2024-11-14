@@ -1,0 +1,32 @@
+.p1{
+    color: brown;
+    text-decoration: overline red;
+}
+
+.p2{
+    color: blue;
+    text-decoration: line-through cyan;
+}
+.p3{
+    color: magenta;
+    text-decoration: underline black;
+}
+.p4{
+    color: blueviolet;
+    text-decoration: overline line-through red;
+}
+
+.p5{
+    color: mediumslateblue;
+    text-decoration: line-through underline orange;
+}
+.p6{
+    color: aqua;
+    text-decoration: underline overline green;
+}
+.p7{
+    color: lavenderblush;
+    text-decoration: overline underline line-through blue;
+}
+
+

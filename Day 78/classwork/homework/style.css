@@ -1,0 +1,60 @@
+/*.p1{
+    color: skyblue;
+    text-align: center;
+    text-decoration: overline;
+
+}
+.p2{
+    color: red;
+    text-align: right;
+    text-decoration: line-through;
+}
+.p3{
+    color: green;
+    text-decoration: underline;
+    text-align: justify;
+}
+*/
+.p1{
+    color: darkred;
+    text-decoration: underline wavy;
+}
+.p2{
+    color:blue ;
+    font-family: fantasy;
+
+}
+.p3{
+    color: red;
+    text-decoration: line-through green;
+}
+.p4{
+    color: turquoise;
+    text-decoration: overline blue;
+}
+.p5{
+    color: blanchedalmond;
+    text-decoration: underline yellow;
+}
+.p6{
+    color: mediumturquoise;
+    text-align: justify;
+}
+.p7{
+    color: olive;
+    text-decoration: underline;
+}
+.p8{
+    color: sandybrown;
+    text-decoration: underline;
+}
+.p9{
+    color:wheat;
+    text-decoration: line-through double;
+}
+.p10{
+    color: blue;
+    text-decoration: overline;
+}
+
+
