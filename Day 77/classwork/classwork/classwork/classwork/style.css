@@ -1,0 +1,14 @@
+div{
+    background-color: blue;
+    width: 1000px;
+    height: 1000px;
+}
+
+
+
+
+div-child{
+    background-color: black;
+    width: 50%;
+    height: 50%;
+}
