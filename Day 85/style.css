@@ -1,0 +1,25 @@
+
+/*.but1{
+    background-color: crimson;
+    border: 1px double blue;
+    width: 50px;
+    height: 50px;
+}
+.but1:hover{
+    transition: 1s;
+    border: 3px dotted blueviolet;
+    width: 70px;
+    height: 70px;
+}
+.but2{
+    background-color: rgb(20, 220, 187);
+    border: 1px dashed rgb(255, 0, 0);
+    width: 50px;
+    height: 50px;
+}
+.but2:active{
+    transition: 1s;
+    background-color: coral;
+    width: 70px;
+    height: 70px;
+}*/

@@ -1,0 +1,80 @@
+/*.ul1{
+    color: cyan;
+    width: 30px;
+    height: 33px;
+    background-color: black;
+    list-style-type: georgian;
+}
+.ul2{
+    width: 40px;
+    height: 45px;
+    background-color: orangered;
+    list-style-type: armenian;
+}
+.ul3{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(24, 219, 240);
+    list-style-type:disc;
+}
+
+.ol1{
+    color: red;
+    list-style-type: circle;
+    background-color: darkblue;
+}
+.ol2{
+    color: rgb(4, 0, 255);
+    list-style-type: disc;
+    background-color: rgb(175, 113, 102);
+}
+.ol1{
+    color: rgb(13, 255, 0);
+    list-style-type: square;
+    background-color: darkblue;
+}
+.ol1{
+    color: rgb(255, 0, 170);
+    list-style-type: georgian;
+    background-color: darkblue;
+}
+.ol1{
+    color: rgb(35, 117, 107);
+    list-style-type: decimal;
+    background-color: rgb(132, 139, 0);
+
+.ol1{
+    color: rgb(255, 0, 204);
+    list-style-type: decimal-leading-zero;
+    background-color: darkblue;
+}
+.ol2{
+    color: rgb(235, 173, 173);
+    list-style-type: square;
+    background-color: rgb(139, 0, 0);
+}
+.ol3{
+    color: chartreuse;
+    list-style: upper-alpha;
+}
+ol{
+    color: red;
+    list-style-type: circle;
+    background-color: darkblue;
+}
+ul{
+    color: cyan;
+    background-color: black;
+    list-style-type: georgian; 
+}
+*/
+ol{
+    color: rgb(0, 0, 255);
+    list-style-type: circle;
+    background-color: rgb(0, 139, 109);
+}
+ul{
+    color:red;
+    list-style-type: disc;
+    background-color: brown;
+}

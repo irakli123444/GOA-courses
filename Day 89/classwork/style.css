@@ -1,0 +1,15 @@
+.ol1{
+    list-style-type: disc;
+}
+
+.ol2{
+    list-style-type:none ;
+}
+
+.ol3{
+    list-style-type: circle;
+}
+
+.ol4{
+    list-style-type: square;
+}
