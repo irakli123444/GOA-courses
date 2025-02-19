@@ -1,0 +1,18 @@
+.parent-div{
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+}
+
+.child-div{
+    background-color: cyan;
+    width: 300px;
+    height: 300px;
+}
+
+
+.child-div:hover{
+    transition: 1s;
+    width: 200px;
+    height: 200px;
+}

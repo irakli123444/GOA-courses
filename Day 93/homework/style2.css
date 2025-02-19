@@ -1,0 +1,13 @@
+div{
+    display: flex;
+    flex-direction: column;
+    background-color: cyan;
+    width: 100px;
+    height: 100px;
+}
+
+div:hover{
+    transition: 1s;
+    width: 400px;
+    height: 400px;
+}

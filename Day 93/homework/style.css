@@ -1,0 +1,39 @@
+parent-div{
+    display: flex;
+}
+
+.child-div{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.child-div2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.parent-div2{
+    display: flex;
+    flex-direction: column;
+}
+    
+
+
+.child-div3{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.child-div4{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+    
+.parent-div3{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}

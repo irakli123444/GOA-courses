@@ -1,0 +1,57 @@
+.parent-div{
+    display: flex;
+    flex-direction: column-reverse;
+
+}
+
+.child-div1{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+}
+.child-div2{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
+.child-div3{
+    background-color: blue;
+    height: 300px;
+    width: 300px;
+}
+.child-div4{
+    background-color: blue;
+    height: 400px;
+    width: 400px;
+}
+.child-div5{
+    background-color: blue;
+    height: 500px;
+    width: 500px;
+}
+
+.child-div6{
+    background-color: blue;
+    height: 150px;
+    width: 150px;
+}
+.child-div7{
+    background-color: blue;
+    height: 500px;
+    width: 500px;
+}
+.child-div8{
+    background-color: blue;
+    height: 400px;
+    width: 400px;
+}
+.child-div9{
+    background-color: blue;
+    height: 320px;
+    width: 320px;
+}
+.child-div10{
+    background-color: blue;
+    height: 220px;
+    width: 220px;
+}
