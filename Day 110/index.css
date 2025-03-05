@@ -1,0 +1,49 @@
+body{
+    background-image: url("https://img.freepik.com/free-photo/digital-art-beautiful-mountains_23-2151123688.jpg?t=st=1741114456~exp=1741118056~hmac=a23b32061884b39d82362be7cf422c16e95bdfec0e96aa8ec0a51f001cac9cbe&w=740");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+input{
+    border-radius:6px ;
+    height: 20px;
+    width: 250px;
+    border: 1px black double;
+    font-family: sans-serif;
+    color: rgb(0, 104, 202);
+    background-color: black;
+}
+
+input:hover{
+    transition: 1s;
+    border: 1px rgb(121, 0, 235) double;
+    background-color: rgb(121, 0, 235);
+}
+
+p{
+    font-family: sans-serif;
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+button{
+    position: relative;
+    left: 825px;
+    font-family: sans-serif;
+    background-color: black;
+    border: 1px black double;
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+}
+
+button:hover{
+    transition: 1s;
+    border: 1px rgb(121, 0, 235) double;
+    background-color:rgb(121, 0, 235);
+}

@@ -1,0 +1,26 @@
+
+    .div1{
+        text-align: center;
+        height: 200px;
+        width: 200px;
+        color: aliceblue;
+        background-color:blue;
+        position:absolute;
+        top: 0px
+    }
+
+    .h6{
+        color: rgb(36, 179, 0);
+    }
+
+
+    .div1:hover{
+        transition: 1s;
+        background-color: black;  
+        color:black;
+       }
+
+       .h6:hover{
+        color: greenyellow;
+    }
+

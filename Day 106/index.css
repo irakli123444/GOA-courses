@@ -1,0 +1,65 @@
+body{
+    display: flex;
+}
+
+
+.div1{
+    margin-right:20px ;
+    border: black double 1px;
+    align-items: center;
+    text-align: center;
+    width: 250px;
+    height: 400px;
+}
+
+.fa-twitter{
+    font-size: 100px;
+}
+
+
+h1{
+    font-family: sans-serif;
+
+}
+
+button{
+    font-family: sans-serif;
+    color: aliceblue;
+    background-color: black;
+    border-radius: 25px;
+    height: 50px;
+    width: 200px;
+}
+
+.fa-instagram{
+    font-size: 100px;
+    color: aliceblue;
+}
+
+
+.div2{
+    background-color:rgb(255, 0, 98) ;
+    margin-right:20px ;
+    border: rgb(255, 0, 98) double 1px;
+    align-items: center;
+    text-align: center;
+    width: 250px;
+    height: 400px;
+}
+
+.p1{
+    color: aliceblue;
+}
+
+.h7{
+    color: aliceblue;
+}
+
+.but2{
+    color:rgb(255, 0, 98) ;
+    background-color: aliceblue;
+}
+
+.fa-youtube{
+    font-size: 100px;
+}

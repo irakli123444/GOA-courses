@@ -1,0 +1,25 @@
+video{
+    z-index:-1 ;
+    width: 100%;
+}
+
+img{
+    margin-bottom: 100px;
+    border-radius: 7px;
+    height:600px;
+    width: 600px;
+}
+
+div{
+    position:fixed;
+    right: 200px;
+    top: 500px;
+}
+
+h1{
+    font-family: sans-serif;
+}
+
+p{
+    font-family: sans-serif;
+}

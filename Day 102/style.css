@@ -1,0 +1,25 @@
+body{
+  background-image: url("https://gotrip.ge/blog/wp-content/uploads/2023/01/shutterstock_2130460547.jpg");
+  background-repeat:no-repeat ;
+  background-size: cover;
+}
+
+
+p{
+  color: greenyellow;
+  margin-top: 50px;
+  margin-right: 200px;
+  margin-left: 200px;
+}
+
+video{
+  width: 200px;
+  height: 200px;
+  position: fixed;
+  top: 400px;
+  left:9px ;
+}
+
+h1{
+  color: aquamarine;
+}

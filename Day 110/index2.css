@@ -1,0 +1,30 @@
+.loadingdiv{
+    border-radius: 10px;
+    height: 40px;
+    width: 100%;
+    animation: loadingBar 5s linear forwards;
+}
+
+
+
+@keyframes loadingBar{
+    0%{
+        width: 0%;
+    }
+    25%{
+        width: 25%;
+        background-color: chartreuse;
+    }
+    50%{
+        width: 50%;
+        background-color: blue;
+    }
+    75%{
+        width: 75%;
+        background-color: crimson;
+    }
+    100%{
+        width: 100%;
+        background-color: darkcyan;
+    }
+}

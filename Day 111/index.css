@@ -1,0 +1,11 @@
+body{
+    background-image: url("https://mclaren.scene7.com/is/image/mclaren/570GT-black-1920x1080:crop-16x9?wid=1920&hei=1080");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: white;
+    font-family: sans-serif;
+    font-size: 70px;
+}

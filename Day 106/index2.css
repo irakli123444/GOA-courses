@@ -1,0 +1,109 @@
+
+
+.div0{
+    margin-right: 20px;
+    border-radius:10px ;
+    height: 150px;
+    width: 150px;
+    border: 2px rgb(0, 153, 255) double;
+    align-items: center;
+    text-align: center;
+}
+
+.div1{
+    display: flex;
+
+}
+
+.fa-plane-departure{
+    font-size: 40px;
+    color:rgb(0, 153, 255) ;
+}
+
+h3{
+    font-family: sans-serif;
+   color: rgb(0, 153, 255);
+}
+
+
+h4{
+    font-family: sans-serif;
+   color: rgb(0, 153, 255);
+}
+
+.fa-plane-arrival{
+    font-size: 40px;
+    color:rgb(0, 153, 255) ;
+}
+
+.fa-language{ 
+    font-size: 40px;
+    color:rgb(0, 153, 255) ;
+}
+
+.div2{
+    display: flex;
+}
+
+.div01{
+    margin-right: 20px;
+    border-radius: 10px;
+    height: 150px;
+    width: 150px;
+    border: 2px rgb(228, 143, 46) double;
+    align-items: center;
+    text-align: center;
+}
+
+.fa-person-biking{
+    font-size: 40px;
+    color:rgb(228, 143, 46) ;
+}
+
+.h7{
+    color: rgb(228, 143, 46);
+}
+
+.fa-ship{
+    color:rgb(228, 143, 46) ;
+    font-size: 40px;
+}
+
+.fa-car{
+    color:rgb(228, 143, 46) ;
+    font-size: 40px;
+}
+
+.div3{
+    display: flex;
+}
+
+.div02{
+    margin-right: 20px;
+    border-radius: 10px;
+    height: 150px;
+    width: 150px;
+    border: 2px rgb(224, 50, 50) double;
+    align-items: center;
+    text-align: center;
+}
+
+.h8{
+    color: rgb(224, 50, 50);
+}
+
+.fa-mug-saucer{
+    font-size: 40px ;
+    color:rgb(224, 50, 50) ;
+}
+
+.fa-dumbbell{
+    font-size: 40px ;
+    color:rgb(224, 50, 50) ;
+}
+
+.fa-hot-tub-person{
+    font-size: 40px ;
+    color:rgb(224, 50, 50) ;
+}
+

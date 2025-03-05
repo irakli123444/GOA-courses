@@ -1,0 +1,24 @@
+.div1{
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+}
+
+.div1:hover{
+    transition: 1s;
+    transform: skew(100deg);
+}
+
+
+.div2{
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+}
+
+.div2:hover{
+    transition: 1s;
+    transform: skewY(50deg);
+}

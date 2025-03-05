@@ -1,0 +1,26 @@
+.div1{
+    background-image: url("Screenshot\ 2025-03-01\ 155012.png");
+    height: 200px;
+    width: 200px;
+    align-items: center;
+    text-align: center;
+    border:1px rgb(0, 0, 0) double;
+}
+
+img{
+    border-radius: 50px;
+}  
+
+h3{
+    font-family: sans-serif;
+}
+
+.div2{
+    border:1px rgb(0, 0, 0) double;
+    display: flex;
+}
+
+h4{
+    margin-right: 10px;
+    font-family: sans-serif;
+}

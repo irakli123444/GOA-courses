@@ -1,0 +1,17 @@
+.div1{
+    background-color: rgb(255, 217, 0);
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    height: 86px
+}
+
+body{
+    margin-top: 100px;
+}
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+}
+

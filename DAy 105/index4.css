@@ -1,0 +1,26 @@
+.div1{
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+}
+
+
+.div1:hover{
+    transition: 1s;
+    transform: rotate(90deg);
+}
+
+.div2{
+    background-color: rgb(127, 225, 255);
+    height: 100px;
+    width: 100px;
+    border: 2px violet dotted;
+    margin: 50px;
+}
+
+
+.div2:hover{
+    transition: 1s;
+    transform: rotate(90deg);
+}

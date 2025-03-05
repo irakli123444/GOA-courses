@@ -1,0 +1,71 @@
+h1{
+    font-family: sans-serif;
+    color: aliceblue;
+}
+
+body{
+    display: flex;
+}
+
+
+.div1{
+    padding: 20px;
+    background-color: rgb(248, 126, 39);
+    height: 300px;
+    width:200px ;
+}
+
+p{
+    color: aliceblue;
+    font-family: sans-serif;
+}
+
+
+.but1{
+    font-size: 12px;
+    font-family: sans-serif;
+    border: 1px aliceblue double;
+    background-color:aliceblue ;
+    border-radius: 25px;
+    height: 50px;
+    width: 120px;
+    color: rgb(248, 126, 39);
+}
+
+.div2{
+    padding: 20px;
+    background-color: rgb(0, 107, 110);
+    height: 300px;
+    width:200px ;
+}
+
+.but2{
+font-size: 12px;
+font-family: sans-serif;
+border: 1px aliceblue double;
+background-color:aliceblue ;
+border-radius: 25px;
+height: 50px;
+width: 120px;
+color: rgb(0, 107, 110);
+}
+
+
+.div3{
+    padding: 20px;
+    background-color: rgb(5, 66, 68);
+    height: 300px;
+    width:200px ;
+}
+
+.but3{
+    font-size: 12px;
+    font-family: sans-serif;
+    border: 1px aliceblue double;
+    background-color:aliceblue ;
+    border-radius: 25px;
+    height: 50px;
+    width: 120px;
+    color: rgb(5, 66, 68);
+    }
+

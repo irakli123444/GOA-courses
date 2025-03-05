@@ -1,0 +1,23 @@
+div{
+    background-color: azure;
+    height: 400px;
+    width: 200px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+h3{
+    font-weight: 200;
+    color: black;
+}
+
+p{
+    font-weight: 200;
+    font-size: small;
+
+}
