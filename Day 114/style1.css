@@ -1,0 +1,77 @@
+body{
+    background-color:hsl(217, 54%, 11%);
+}
+
+.div1{
+    padding: 20px;
+    height: 470px;
+    width: 230px;
+    border-radius: 10px;
+    background-color: hsl(216, 50%, 16%);
+}
+
+img{
+    border-radius: 7px;
+    height: 263px;
+    width: 230px;
+}
+
+h3{
+    font-family: sans-serif;
+    color: white;
+}
+
+.span1{
+    font-size: 20px;
+}
+
+p{
+    color: hsl(215, 51%, 70%);
+    font-weight: 200;
+    font-family: sans-serif;
+}
+
+
+
+
+.div2{
+    display: flex;
+}
+
+.svg2{
+    position: relative;
+    left: 110px;
+    bottom: 22px;
+}
+
+.p2{
+    color: hsl(178, 100%, 50%);
+    position: relative;
+    left: 20px;
+    bottom: 57px;
+}
+
+.p3{
+    position: relative;
+    left: 130px;
+    bottom: 92px;
+}
+
+.img2{
+    position: relative;
+    bottom: 75px;
+    height: 50px;
+    width: 50px;
+}
+
+
+
+.span2{
+    color: white;
+}
+
+.p4{
+    position: relative;
+    bottom: 130px;
+    left: 60px;
+}

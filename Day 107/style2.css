@@ -1,0 +1,20 @@
+
+
+p{
+    color: gray;
+    font-family: sans-serif;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.div1{
+    display: flex;
+}
+
+.div2{
+    display: flex;
+}

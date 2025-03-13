@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(255, 0, 76, 0.815);
+}
+
+div{
+    background-color: white;
+    border-radius: 7px;
+    height: 400px;
+    width: 400px;
+}
+
+p{
+    color: gray;
+    font-family: sans-serif;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}

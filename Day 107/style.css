@@ -1,0 +1,36 @@
+body{
+    display: flex;
+}
+
+p{
+    color: gray;
+    font-family: sans-serif;
+}
+
+div{
+    margin-right: 20px;
+    padding-top: 50px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 350px;
+    width: 400px;
+    background-color: bisque;
+    border-radius: 5px;
+}
+
+img{
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+}
+
+h2{
+    color: gray;
+    font-family: sans-serif;
+}
+
+h3{
+    color: gray;
+    font-family: sans-serif;
+}

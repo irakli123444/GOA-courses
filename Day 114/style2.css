@@ -1,0 +1,48 @@
+body{
+    background-color: hsl(233, 47%, 7%);
+}
+
+.div1{
+    border-radius: 5px;
+    padding-left:50px ;
+    background-color: hsl(244, 38%, 16%);
+    width: 1000px;
+    height: 400px;
+}
+
+h1{
+    padding-top: 60px;
+    color: white;
+    font-family: sans-serif;
+}
+
+span{
+    color: hsl(277, 64%, 61%);
+}
+
+img{
+    width: 50%;
+    height: 400px;
+    position: relative;
+    bottom: 319px;
+    left: 500px;
+
+}
+
+p{
+    font-family: sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+.div2{
+    display: flex;
+}
+
+h3{
+    font-family: sans-serif;
+    color: white;
+}
+
+.p2{
+    margin-right: 10px;
+}
